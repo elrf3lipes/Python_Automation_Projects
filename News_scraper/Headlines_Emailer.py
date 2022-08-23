@@ -43,9 +43,9 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com' # smtp server
 PORT = 587
-FROM = 'ramon.fsaldanha@gmail.com'
-TO = 'ramon.fsaldanha@gmail.com' # email ids # can be a list
-PASS = 'jobnbvfwwjykghow'
+FROM = ''
+TO = '' # email ids # can be a list
+PASS = ''
 
 # fp = open(file_name, 'rb')
 # Create a text/plain message
